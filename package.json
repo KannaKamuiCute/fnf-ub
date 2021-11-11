@@ -3,7 +3,7 @@
   "description": "totally real daring duels!!!!!!11111",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "Funkin.js"
   },
   "repository": {
     "type": "git",
