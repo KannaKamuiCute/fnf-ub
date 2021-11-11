@@ -3,7 +3,7 @@
   "description": "totally real daring duels!!!!!!11111",
   "version": "1.0.0",
   "scripts": {
-    "test": "Funkin.js"
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
