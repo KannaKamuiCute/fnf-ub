@@ -3,6 +3,10 @@
   "description": "totally real daring duels!!!!!!11111",
   "version": "1.0.0",
   "scripts": {
+    "buildClient": "npm install",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build"
   },
   "repository": {
